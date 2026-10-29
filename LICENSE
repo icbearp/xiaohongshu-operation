@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Scope note / 许可范围说明
-
-This MIT license applies to the additions and modifications made in this
-repository. Portions derived from https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill
-remain the work of their original author, whose repository does not include a
-license; those portions are not relicensed by this file. See NOTICE.md.
-
-本 MIT 许可适用于本仓库新增和修改的部分。源自 Xiangyu-CAS/xiaohongshu-ops-skill
-的原有部分著作权仍归原作者所有（原仓库未附许可证），不因本文件而改变授权，详见 NOTICE.md。
